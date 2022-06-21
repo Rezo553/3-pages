@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Acumin Pro';
+    src: url('AcuminPro-Light.eot');
+    src: url('AcuminPro-Light.eot?#iefix') format('embedded-opentype'),
+        url('AcuminPro-Light.woff2') format('woff2'),
+        url('AcuminPro-Light.woff') format('woff'),
+        url('AcuminPro-Light.ttf') format('truetype'),
+        url('AcuminPro-Light.svg#AcuminPro-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
